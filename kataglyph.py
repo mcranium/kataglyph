@@ -1,3 +1,9 @@
+# Created by Mario Schädel
+# mario.schaedel@gmail.com
+# mcranium.github.io
+
+# The progamm is free and open software (GNU GPL license Version 3).
+
 # Command line functionality adopted from:
 # https://towardsdatascience.com/how-to-write-python-command-line-interfaces-like-a-pro-f782450caf0d
 
